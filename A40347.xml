@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the unlawful and unreasonable proceedings of the magistrates of Harwich in Essex against the people of the Lord (called Quakers) also the manner of their imprisoning of George Fox the younger, whom they with Robert Grassingham accused to the Parliament, and also the manner of the Parliaments proceedings against them.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40347</idno><idno type="EEBO-CITATION">10586117</idno>
+  <idno type="VID">45291</idno>
+  <idno type="EEBO-PROQUEST">2240879026</idno>
+  
+            <idno type="STC">Wing F2014</idno>
+            <idno type="STC">ESTC R28405</idno>
+            <idno type="OCLC">10586117</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the unlawful and unreasonable proceedings of the magistrates of Harwich in Essex against the people of the Lord (called Quakers) also the manner of their imprisoning of George Fox the younger, whom they with Robert Grassingham accused to the Parliament, and also the manner of the Parliaments proceedings against them.</title>
+                  <author>Fox, George, d. 1661.</author>
+                  <author>Grassingham, Robert.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Grassingham, Robert.</term>
+               <term type="topical_term">Society of Friends --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45291:1"/>
+            <pb n="1" facs="tcp:45291:1"/>
+            <head>A TRUE RELATION Of the unlawful and unreasonable Proceedings of the Magistrates of HARWICH in ESSEX, against the People of the Lord (called QUAKERS) Also the manner of their Imprisoning of GEORGE FOX the younger, whom they with ROBERT GRASSINGHAM accused to the PAR<g ref="char:EOLhyphen"/>LIAMENT; And also the manner of the PARLIAMENTS Proceedings against them.</head>
+            <p>IN the Year 1656, it was so ordered of the Lord, that there came unto the Town of <hi>HARWICH</hi> some of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as they were coming from the <hi>Steeple-house,</hi> and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they passed into an <hi>Inn;</hi> but the then <hi>MAYOR</hi> hearing thereof sent unto them, command<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng that they should depart the Town, which they had not freedom in the Lord presently to do, but after a short spac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent out: And it being upon them to r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>turn aga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, they did so and lodged at <hi>that Inn</hi> all night, and the next day they peaceably passed away; so nor long after, the Woman that kept <hi>the Inn,</hi> was commanded to come before the <hi>Magistrates</hi> of the Town, who appeared to be offended w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th her<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for lodging of those People, and made her to pro<g ref="char:EOLhyphen"/>mise them, that she would lodge no more such Persons, by threatning to take away <hi>her License</hi> if she did; So grea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was their envy at the appearance of the Truth in that Town, But it pleased the Lord, that shortly after, some of the Inhabitants ther<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re Convinced of the Truth; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd so a way was made for Mee<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd several received the Truth in the Love of it, in and about that Town so that they could not for Conscience sake pay to the repairing of the <hi>Steeple house</hi> any <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onger; and therefore had not free<g ref="char:EOLhyphen"/>dom to Bury their dead in the ground belonging thereunto; but they joined together, and bought a pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of ground to Bur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their dead in <hi>(as did Abra<g ref="char:EOLhyphen"/>ham, the Fat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of the Faithful.)</hi> So in the Year 1659. it was so ordered of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that one who lived a little out of that Town died, and seve<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l people, wer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> accompanying the dead body to Bury it in the place purcha<g ref="char:EOLhyphen"/>sed for that <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the <hi>Magistrates</hi> hearing of it, sent the <hi>Con<g ref="char:EOLhyphen"/>stables</hi> with a Guard, commanding them not to suffer the dead body to be laid
+<pb n="2" facs="tcp:45291:2"/> in that place <hi>(though the Grave was made)</hi> and by the command of that <hi>Magistrate,</hi> the dead body was taken away by force, and Buried in the <hi>Steeple-house Yard.</hi>
+            </p>
+            <p>A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>so in the eleventh Month in the same Year, there dyed another Friend near the same Town, and several Friends came along with the dead body, to have Buried it in the place afore-mentioned; a Grave also being made; but <hi>Miles Hubburd</hi> the now <hi>MAYOR,</hi> and the other <hi>Rulers</hi> would not suf<g ref="char:EOLhyphen"/>fer the dead body to be laid therein; but caused it to be taken away by force, and so they carried it and set it by the Sea side, where it lay <hi>above ground</hi> part of two dayes and one night, and then it was covered over with small stones, but by whom I know not; Of these things a Record is kept, by Friend<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>Harwich.</hi>
+            </p>
+            <p>Also in the 3d. Month in the Year 1660, I being in <hi>Essex</hi> in the work and service of the Lord, whereunto he hath called me by his mighty Power, and therein sent me forth, to publish his Everlasting Truth which he is spreading abroad in this the day of his Power, by which he is gathering those that breath and thirst after his Righteousness, out of the dark wayes and worships of this world, into the true and living Way &amp; Wor<g ref="char:EOLhyphen"/>ship, which Christ Jesus, the true Light, in the dayes of his flesh spoke of; which is in the Spirit and in the Truth: I say, as I was labouring in the Work of the Gospel in that County, I had much drawings in the Spirit of Truth, to appoint a Meeting in the Town of <hi>Harwich;</hi> And that such thereabout who had desires to hear the Truth of God declared, might have notice given them, that in the Will of the Lord I purposed to be there on the 13th day of the month aforesaid it being the first day of the week, So notice was given of the Meeting some dayes before; And upon the first day in the morning there were about forty peaceable people, (as Men, Women and Children) coming in a Boat over a River which runs by the Town unto the Meeting, but the <hi>Magist<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ates</hi> of the Town hearing thereof, sent some Offi<g ref="char:EOLhyphen"/>cers to the water side to hinder them from coming on shore <hi>(who were peace<g ref="char:EOLhyphen"/>ably coming to wait on the Lord, and to hear the Truth declared)</hi> so these <hi>Offi<g ref="char:EOLhyphen"/>cers,</hi> with a great number of rude people, did hinder those peaceable peo<g ref="char:EOLhyphen"/>ple from coming on shore, and forced them back again; also the same mor<g ref="char:EOLhyphen"/>ning <hi>Robert Gassingham</hi> sent two of his servants with a Boat to have fetched over some of our Friends to the Meeting, but the <hi>Officers</hi> would not suffer them to go over, but charged them in the <hi>KING's Name</hi> to come back, and carried them before the <hi>Magistrates,</hi> who commanded that they should forthwith be set in the stocks, and they were so; and there were kept for some hours.</p>
+            <p>And thus the Magistrates of that Town encouraged the rude people against us, by their unjust proceedings: Now it is usual with the Magistrates of that Town, to suffer such as come to their Steeple-house-worship, to come or go over the water upon the first day of the week.</p>
+            <p>And about a Month before, on the first day of the week, the <hi>MAYOR</hi> being informed that some of our Friends were coming over, he with some o<g ref="char:EOLhyphen"/>ther Officers of the Town, went down to the water side, being bent against the innocent; but when the Boat came on shore, it appeared that they were other people who were going about their occasions; and when they saw the
+<pb n="3" facs="tcp:45291:2"/> Mayor, they said unto him, <hi>We made bold to come over; he</hi> answered them,—<hi>It was well enough, I thought</hi> (said he) <hi>you had been Qua<g ref="char:EOLhyphen"/>kers;</hi>—and thus did he manifest his partiality in the sight of many in that Town; so notwithstanding the Rulers cruelty in causing about forty of our Friends to be forced back, and setting two in the stocks, as afore-mentio<g ref="char:EOLhyphen"/>ned; we that were in the Town peaceably Assembled our selves together in the fear of the Lord, to wait upon him; and for near about the space of two hours I had liberty to preach the Gospel to the people, being filled with the Power of the Lord; But with in a short time after the space afore-mentio<g ref="char:EOLhyphen"/>ned, there came a great company of rude Sea men with others of the Town, and the house being filled before with peaceable people, these rude ones could not easily get in; but when they saw that they could not well get to me, because of the press of people, some of them then cursed me bitterly, biding that they call <hi>the Pox and Plague upon me;</hi> others crying out—<hi>hang him Rogue, hang him;</hi>—and another conspiringly said,—<hi>Let us get a Halser</hi> (which is a long Rope) <hi>and therewith pull down the House upon the Rogues;</hi> — others cryed out,—<hi>The King is coming now, who will hang or banish you all,</hi>—(it being a little before his coming.) Now when I heard and saw this great ungodliness, the Spirit of the Lord came mightily up<g ref="char:EOLhyphen"/>on me, and I was filled with his unresistable Power, in which I was made to utter these words, saying, <hi>WO, WO unto the RƲLERS and TEACHERS of this Nation, who suffer such ungodliness as this, and do not seek to suppress it;</hi> then went some of the multitude and accused me to the <hi>Magistrates,</hi> who presently came and commanded the chief Constable <hi>(and some others)</hi> to fetch me out, who forthwith pressed in, and in the <hi>King's Name</hi> commanded me to go with him, and so he brought me out of the House into the street, where the <hi>Rulers</hi> stood amongst the rude multitude, then he that was <hi>MAYOR</hi> said hastily,—<hi>Which is he, which is he,</hi>—some answered,—<hi>This is he,</hi>—(pointing towards me) then said the Mayor to the Constables,—<hi>Take him and put him into Prison;</hi>—then said I to him, if I have done any thing worthy of death or bonds, I shall not refuse either, but I desire thee to shew me what Law I have transgressed <hi>(if thou be able)</hi> which thou oughtest to do before thou sendest me to Prison, that I may know for what thou sendest me thither; he said, <hi>I should know that afterward;</hi> but he would neither let me know my Accusers, nor could he shew me any Law I had broken, neither would he tell me for what cause he sent me to Prison, nor did he at all examine me, but commanded the <hi>Con<g ref="char:EOLhyphen"/>stables</hi> to take me away; so I was forthwith haled to Prison, without a <hi>Mittimus.</hi>
+            </p>
+            <p>And <hi>Robert Grassingham,</hi> whose outward being was at <hi>Harwich,</hi> being at the Meeting out of which I was haled, he innocently in tender love went along with me to Prison, and as he went in the street he seeing the rude multitude thronging me, said to the Constables, You ought to see the Peace kept, and nor to suffer the rude people to abuse the Prisoner <hi>(or words to this effect.)</hi>
+            </p>
+            <p>So some time after I was imprisoned, there was a <hi>Mittimus</hi> sent to the <hi>Gaolor,</hi> signed by <hi>Miles Hubburd Mayor, Anthony Woolward,</hi> and <hi>Daniel Smith;</hi> wherein I was falsly charged <hi>with causing a tumult in that Burough, and disturbing the Peace thereof;</hi> and thus they sought to cover their persecu<g ref="char:EOLhyphen"/>tion,
+<pb n="4" facs="tcp:45291:3"/> by false accusing of the innocent, whom the Lord acquits; But the Rude, Cursing, Tumultuous, Peace breaking people <hi>(whom they had let up and strengthened by their unlawful proceedings)</hi> had nothing done unto them, but were let go free; yet all this did not satisfie their persecuting spirit, but they further proceeded in their cruelty, and accused <hi>both me</hi> and <hi>Robert Grassingham</hi> to the <hi>PARLIAMENT;</hi> Now as for <hi>R. G.</hi> I know no<g ref="char:EOLhyphen"/>thing that they could pretend against him, except they were displeased with his going with me to the Prison, as afore-mentioned; nor did they in he least charge him to his face with any thing; but the <hi>MAYOR</hi> some time be<g ref="char:EOLhyphen"/>sore that, did say unto him in the hearing of several Friends;—<hi>If I could but get you out of the Town, then could I deal w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll enough with the rest <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Quakers;</hi>—But the Lord hath a Seed in that Town which fears not the rage of man, though one of their Brethren, (through the cruelty and unlawful proceedings of those Ruler<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,) be taken from them at present; So the <hi>PAR<g ref="char:EOLhyphen"/>LIAMENT</hi> upon the receiving of their false Information, Issued forth an Order for the bringing up of <hi>R. G.</hi> and <hi>me:</hi> A true Copy thereof is as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>Monday May the 21th, 1660.</date>
+                           </dateline>
+                        </opener>
+                        <p>The House being informed, that two Quakers, that is to say, <hi>George Fox,</hi> and <hi>Robert Grassingham,</hi> have lately made a disturbance at <hi>Harwich,</hi> and that the said <hi>George Fox</hi> who pretends to be <hi>a Preacher,</hi> did lately in his Preach<g ref="char:EOLhyphen"/>ing there, speak words much reflecting on the <hi>Government</hi> and <hi>Ministry,</hi> to the near causing of a Mutiny<note n="†" place="margin">As for the <hi>Government</hi> and <hi>Ministry</hi> of the Town of <hi>Har<g ref="char:EOLhyphen"/>wich,</hi> their streets <hi>like Sodom,</hi> have shewen its effects: And the <hi>Angels</hi> and <hi>Lot</hi> might as justly have been charged with making <hi>a Disturbance</hi> in <hi>Sodom,</hi> when the ungodly thronged <hi>Lotts</hi> Dore, as <hi>R. G.</hi> and <hi>I in Harwich,</hi> as the sober Reader may see: Also, when I was in Prison there, I have seen out at the Window, many go staggering with Drun<g ref="char:EOLhyphen"/>kenness in the street, and both in the day and in the night, they have come to the Grate and cur<g ref="char:EOLhyphen"/>sed me bitterly, and stammered out Oaths by reason of Drunken<g ref="char:EOLhyphen"/>ness, and then cryed,—<hi>God save KING CHARLES,</hi>—saying,—<hi>He would hang the Quakers, and the Anabaptists;</hi>—and these have gone unpunished; But when sober people have come to the Grate to hear the Truth declared, them the <hi>Goa<g ref="char:EOLhyphen"/>lors Company</hi> hath thrown water upon, and the <hi>MAYOR</hi> hath come and commanded them to depart from the Window, and the <hi>Goalor</hi> hath come &amp; shut it up, and threatned me.</note>, and is now committed by the <hi>Mayor</hi> and <hi>Magistrates</hi> there.</p>
+                        <p>
+                           <hi>Ordered,</hi> That the said <hi>George Fox</hi> and <hi>Robert Gras<g ref="char:EOLhyphen"/>singham</hi> be forthwith brought vp in Custody, and that the <hi>Sheriff</hi> of the County of <hi>Essex</hi> do receive them, and give his assistance for the conveying of th<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m up according<g ref="char:EOLhyphen"/>ly, and delivering them into the charge of the <hi>Sergeant</hi> at <hi>Armes</hi> at<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ending this House.</p>
+                        <p>Ordered, that the thanks of this House be given to the <hi>Mayor</hi> and <hi>Magistrates</hi> of <hi>Harwich,</hi> for their care in this business.</p>
+                        <closer>
+                           <signed>
+                              <hi>William Jessop</hi> Clerk of the Commons House of Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>So after they had kept me ten nights in <hi>HARWICH Prison,</hi> the <hi>SHERIFF</hi> of <hi>Essex</hi> with several armed men, came for me with the Order aforementioned; so great a company of men with Halbards fetched me out of the hole wherein I was put <hi>(which was not four Yards long, nor so broad as long)</hi> and these men would nor suner me to speak with the <hi>MAYOR (though I much desired it)</hi> but they guarded me through the streets, and delive<g ref="char:EOLhyphen"/>red me to the <hi>SHERIFF</hi> and his men, who were to bring me up to <hi>LONDON;</hi> so as we were coming upon the Road, we not with <hi>Robert Grassingham,</hi> who was coming from <hi>London</hi> towards <hi>Harwich,</hi> in per<g ref="char:EOLhyphen"/>suance
+<pb n="5" facs="tcp:45291:3"/> of an Order which he had received from the <hi>Commissioners</hi> for the <hi>Admiralty</hi> and <hi>Navy,</hi> for the Re<g ref="char:EOLhyphen"/>fitting of one of the <hi>Kings Frigots,</hi> which then lay in that Port, whereof he was then <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ip-wright;</hi> but not<g ref="char:EOLhyphen"/>withstanding <hi>R G.</hi> shewed his Order to the <hi>Sheriff,</hi> yet he brought <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im back to <hi>London</hi> with me, and delivered us into the Custody of the <hi>Sergeant at Armes attending the House,</hi> who the same night committed us to <hi>Lambeth-House,</hi> and gave Order (as the Gaolor said) <hi>That but few of our Friends should be suffered to come at us, and when any were suffered, that then some should stand by and hear what was said; and if any Letters went from us, or came to us, that the Goalor or some of his Family should hear them,</hi> which was observed for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome time: Also we were confined to our Chamber, for the space of six weeks and upward, and had nor that liberty allowed us to walk in the Yard, which all the other Prisoner<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had; and another time the Gao or said, that the Sergeant had given him an Order,—<hi>That no person should come at me, no not so much as to bring me food;</hi>—but indeed the Goalor suffered my food to be brought in; but as for others whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h came to visit me, they were kept back for some time: so near about three weeks af<g ref="char:EOLhyphen"/>ter we were committed to <hi>Lambeth,</hi> we wrote to the <hi>PARLIAMENT,</hi> and sent the Writing enclosed in a few lines to the Speaker; but he do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng nothing in the th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, we caused it to be Printed, and several hundreds of the Paper, were given to the <hi>PARLIAMENT</hi> Men; a true Copy is as followeth;
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>For the HOUSE of COMMONS Assembled in PARLIA<g ref="char:EOLhyphen"/>MENT at <hi>Westminster.</hi>
+                     </head>
+                     <opener>
+                        <salute>FRIENDS,</salute>
+                     </opener>
+                     <p>BY your Order touching us, Dated the <hi>21st.</hi> of the Third Month, called <hi>May,</hi> we understand you have been falsely in<g ref="char:EOLhyphen"/>formed concerning us, by some who have falsely accused us; Therefore this is our just and reasonable request; that we, toge<g ref="char:EOLhyphen"/>ther with our Accusers, may face to face be brought before you; and if any thing can be justly proved against us worthy of Death, or Bonds, we shall not refuse either; But if their can be nothing justly proved against us, then ought our Accusers to be ashamed, and we to be acquitted.</p>
+                     <p>Now we do believe it to be unjust and unreasonable, that a man should be halled out of a peaceable Meeting, as one of us was at <hi>Harwich</hi> in <hi>Essex,</hi> and sent to Prifon without being Examined, or a <hi>Mittimus</hi> (only for declaring against the Cursing and the Wic<g ref="char:EOLhyphen"/>kednefs of the Rude People, and against such as suffer such Un<g ref="char:EOLhyphen"/>godliness, and do not seek to suppress it) and there to be kept ten nights, and from thence to be transported <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                        <pb n="6" facs="tcp:45291:4"/> that we both should be here confined to our Chambers, as we have been, for about three weeks last past, seeing nothing is proved a<g ref="char:EOLhyphen"/>gainst us, nor we yet brought to an Examination; neither did your Order express any such Confinement: so these things are laid before you in plainness, that justice herein may be done by you.</p>
+                     <p>By us who are Sufferers for Righteousness sake, and we have and shall have peace in our Suffering, and in writing our selves thus, except we were convinced by the Law of God, or any just Law of our Nation to the contrary.</p>
+                     <closer>
+                        <dateline>Lambeth House, <date>the 15<hi>th.</hi> of the 4<hi>th.</hi> Month, cal<g ref="char:EOLhyphen"/>led <hi>June,</hi> 1660,</date>
+                        </dateline>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>George Fox,</hi> the Younger.</item>
+                              <item>
+                                 <hi>Robert Grassingham.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>A Copy hereof was delivered to the <hi>Speaker</hi> of the <hi>House</hi> of <hi>Commons,</hi> inclosed in a Letter to himself, in these words following;
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>For the Speaker of the House of Commons.</head>
+                     <opener>
+                        <salute>Friend,</salute>
+                     </opener>
+                     <p>VVE desire thee to communicate this inclosed to the <hi>House</hi> of <hi>Commons,</hi> it being a few Innocent, Just and Rea<g ref="char:EOLhyphen"/>sonable words to them, though not in the Eloquent Language of Man's Wisdom, yet it is in the Truth which is Honourable.</p>
+                     <closer>
+                        <signed>We are Friends to Righteousness and Truth, and to all that are Found therein.
+<list>
+                              <item>R. G.</item>
+                              <item>G. F.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>And being informed that as yet nothing is done in Answer to those Reaso<g ref="char:EOLhyphen"/>nable and Just desires, which are above mentioned. It is therefore thought meet to have it Printed, that so each Member of Parliament, as well as O<g ref="char:EOLhyphen"/>thers in outward Authority, may be acquainted with our Innocency, who (with many others) unjustly suffer Bonds and other Cruelties.
+<q>This in tender Love, is a Warning and Visitation to you all, that in this your day of Tryal, you continue not Oppression upon the Righteous, nor Afflict the Meek, whom the Lord regards, lest you fall as those whom God cast out before you.</q>
+            </p>
+            <p>Yet notwithstanding all this, the <hi>PARLIAMENT</hi> would do no<g ref="char:EOLhyphen"/>thing in our business; Then some who desired that we together with our Accusers might be brought to a hearing, went to some of the Members, and desired that it might be moved in the House; but they would not; then a Reason was desired, Why not? Their Answer was, Because our Paper was not a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nor directed with this Title <hi>(T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Right Honourable
+<pb n="7" facs="tcp:45291:4"/> the House of Commons, &amp;c.)</hi> and except we would Petition and give them that Title aforementioned, we might lye where we did if we would; and yet they confessed, that there was little of Fact charged against us, and that our Paper was Rational, and our Request therein Reasonable.</p>
+            <p>So because we have learned to speak truth in plainness to every man, and could not for Conscience sake give flattering titles to any, least our Ma<g ref="char:EOLhyphen"/>ker should take us away, nor Petition any but him; therefore were we de<g ref="char:EOLhyphen"/>nied Justice, and are made a prey upon by those who seek honour one of another, and not that, which cometh from God onely.</p>
+            <p>So after we had layn about fourteen weeks in <hi>Lambeth G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te-House,</hi> without being examined; then one of the <hi>Members</hi> of <hi>PARLIAMENT</hi> mo<g ref="char:EOLhyphen"/>ved our business in the House, whereupon an Order was made; a true Copy whereof followeth;
+<q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_order">
+                           <opener>
+                              <dateline>
+                                 <date>Thursday the 30th of August, 1660.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>Ordered,</hi> That <hi>George Fox</hi> and <hi>Robert Grassingham,</hi> who by vertue of a former Order of this House, were taken into Custody by the Sergeant at Armes attending this House, for some disturbance at <hi>Harwich,</hi> be forthwith Released, and set at Liberty, upon Bail first given to Render themselves, when they shall be in that behalf Required</p>
+                           <closer>
+                              <signed>
+                                 <hi>William Jessop</hi> Clerk of the Commons House of Parliament.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>Then shortly after this Order was issued forth, <hi>the Sergeant at Armes</hi> sent his Clerk, to demand <hi>Fees, and Chamber Rent of us;</hi> then I asked him before several Witnesses, if we were detained onely for that? he then said, <hi>He knew not but that we were Freed, and that we might go, if we would pay his Master, who had sent him to demand fifty pounds of us for Fees, besides Chamber Rent;</hi> for which the Chamberlain of the Prison told us, <hi>That the Sergeant demanded ten-shillings a week;</hi> So we denied to uphold such wicked oppression▪ &amp; could not for Conscience sake satisfie his covetous &amp; unrighte<g ref="char:EOLhyphen"/>ous desire, but chose rather to suffer, than to come forth by yielding to such a horrid oppression; yet were we willing to have given him to the full value of all the things we made use of in the Chamber, and it being the highest room in a lofty Tower, and all the Windowes open, it was not fit for men to Lodge in, by Reason of the Wind and Rain beating in, until we had gotten them Glassed without any charge to the <hi>Sergeant,</hi> and we had so little of his in our Chamber, that we offered this (to wit) that if two reasonable men would prise the things, we would pay him for them, and give him the Things also; or if he would not stand to that, then we would give him <hi>two shillings and six pence a week, for the time we had been there;</hi> We also told our Keepers, that if we denied to give them any thing, that they could recover by Law, the Law was open, but they ought not according to their own Law to keep us upon that account, but to turn us out, and then take their course at Law; And so we demanded our Liberty several times; but notwithstanding all this, the <hi>Sergeant</hi> detained us still.</p>
+            <p>And the day before the <hi>PARLIAMENT Adjourned,</hi> our Names in a List with other Prisoners in his Custody, was given in to the <hi>Parliament,</hi> who notwithstanding their Act of <hi>Indemnity</hi> and <hi>Oblivion,</hi> and their former Order, for our being forthwith Released and set at Liberty; they made a<g ref="char:EOLhyphen"/>nother
+<pb n="8" facs="tcp:45291:5"/> Order, <hi>That it should be Referred to the Kings Privy Counsel, to con<g ref="char:EOLhyphen"/>sider of us, and to give such Order touching us, as to our Liberty, or to con<g ref="char:EOLhyphen"/>tinue under Restraint, as they should find Consistent with the Publick Peace, and the mean time we are to remain in the Sergeants Custody;</hi> so by this Order we are still detained, and nothing is yet done by the Privy Councel touching us.</p>
+            <p>Now let the Reader consider, how unreasonably and contrary to Law we have been used, who have been kept <hi>seventeen weeks in this Prison,</hi> and ne<g ref="char:EOLhyphen"/>ver brought to any examination. <hi>Besides the time that I was kept at Harwich.</hi>
+            </p>
+            <p>Now if the <hi>PARLIAMENT</hi> had rightly weighed and considered the matter, when they Ordered <hi>the thanks of the House to be given to the Mayor and Magistrate of Harwich, for their care in that busin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss touching us;</hi> truly, they might have found more cause to have reproved them for their folly, than to have given them thanks.</p>
+            <p>For if it had been true, that we had made some <hi>Disturbance</hi> at <hi>Harwich (as it is said in the Order for our Release)</hi> yet if the <hi>Magistrates</hi> of <hi>Harwich</hi> had rightly understood their duty, and f they had not been blinded with the mad zeal of persecution, they might have seen that it belonged to their place to have ended the matter of a disturbances and not to have troubled <hi>a Parliament</hi> with such a frivilous thing; But it is certain, that pers<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cutors in all Ages were blind: And what a thing is th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, cannot three <hi>Justices of the Peace (so called)</hi> nor <hi>a Parliament,</hi> determine in the ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter of <hi>a Distur<g ref="char:EOLhyphen"/>bance</hi> (if it had been so that we had made one, which we did not) but that such a thing as that, must be turned over <hi>to the King's Privy Council to be considered of?</hi> or is it because they would keep the innocent in Prison, and are ashamed to bring them to an examination, having no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing justly to charge them withal? I leave this to be answered, by that of God in all who shall read this.</p>
+            <p>And seeing there have be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n many false Reports touching the cause of our imprisonment, and also that some of our enemies have reported, <hi>that we may come out of Prison if we will,</hi> it was upon me to publish the manner of our imprisonment, and of our being kept, and by whom, that the truth of the matter may plainly be seen, which being truly considered, people may see that it is even now as it was in the Prophets dayes of old, <hi>For Ju<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gement is now turned backward, and Justice standeth afar off,</hi> Truth <hi>is fallen into the streets, and</hi> Equity <hi>cannot enter; yea,</hi> Truth <hi>faileth,</hi> and <hi>he that departeth from Evil maketh himself a prey, and the Lord hath seen it, and it displeaseth him, because there is no true Judgement,</hi> Isaiah 59.14, 15. and as they did in the dayes of <hi>Amos,</hi> even so do this generation; yea,</p>
+            <epigraph>
+               <q>They now turn Judgment into Wormwood, and leave off Righteousness in the earth, they hate him that re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uketh in the Gate, and abhor him that speaketh uprightly; There<g ref="char:EOLhyphen"/>fore will the Lord break forth like fire,</q>
+               <bibl>Amos 5.</bibl>
+            </epigraph>
+            <closer>
+               <signed>G. F.</signed>
+               <dateline>Lambeth House <date>the 21th of the 7th Month, 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilson,</hi> at the sign of the <hi>Black-spread-Eagle</hi> and <hi>Wind-Mill,</hi> in <hi>Martins Le Grand,</hi> 1660.</p>
+            <pb facs="tcp:45291:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
